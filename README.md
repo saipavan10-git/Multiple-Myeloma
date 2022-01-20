@@ -19,4 +19,6 @@ was recorded to be 95%, for CNN-ANN model. Thus, the
 model can be used effectively for determining the Multiple 
 Myeloma from the cell images. 
 ![Screenshot (380)](https://user-images.githubusercontent.com/32958525/150371874-11e56457-449c-4b2f-930e-63142dd27808.png)
+
+
 ![Screenshot (379)](https://user-images.githubusercontent.com/32958525/150372031-ca68ebe1-61e3-4651-9eff-aafc4b61b1d9.png)
